@@ -1,0 +1,10 @@
+The contents of research data introduction have been damaged, to aid in recovery recreate missing Sentences marked with _ without changing correct existing ones.
+
+Instructions:
+
+    1. Read the article carefully, and calculate the number of characters including _.
+
+    2. Consider that the appearnce of a sequence of _ starting after a full stop until a word is a full single sentence. Please fill those sequences of _ with a complete sentence considering the context of the article. Remember that the character-lenght of the recovered article and the input article(i.e. damaged article) will be exactly the same.
+
+Article to analyze: {article_content}
+

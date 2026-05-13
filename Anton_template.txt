@@ -1,0 +1,14 @@
+The contents of research data introduction have been damaged, to aid in recovery recreate missing Sentences marked with _ without changing correct existing ones.
+
+Instructions:
+
+    1. Read the remaining text carefully.
+	
+	2. Match regenerated sentence lenghts to _ part lenghts.
+
+    3. find what would best fit the missing parts. 
+
+    4. Fill in missing parts and return full text without comments or changing existing lines.
+
+Article to analyze: {article_content}
+

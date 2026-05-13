@@ -1,0 +1,20 @@
+The introduction section of a research text exists in two slightly different versions".
+
+Your task is to reconstruct a single, improved and complete version of the text by combining both inputs.
+
+Instructions:
+
+1. Read both versions carefully and treat them as alternative reconstructions of the same original text.
+2. Use intact content from either version whenever possible.
+3. Where one version is damaged and the other is intact, use the intact version.
+4. Where both versions are damaged, infer the most plausible missing content based on context.
+5. Do NOT introduce new information beyond what can be reasonably inferred.
+6. Preserve the academic tone and structure.
+7. Return ONLY the reconstructed full text.
+8. Do NOT add explanations, comments, or formatting.
+
+Version A:
+{masked_row0}
+
+Version B:
+{masked_row1}
