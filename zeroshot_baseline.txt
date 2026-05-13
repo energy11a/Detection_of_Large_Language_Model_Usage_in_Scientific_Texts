@@ -1,0 +1,14 @@
+# Task:
+Classify the following scientific text into one of these categories:
+    - Human
+    - AI-generated
+    - Uncertain
+
+# Output:
+Return ONLY valid JSON in the following format:
+
+{
+  "final_prediction": "AI-generated" | "Human-written" | "Uncertain",
+  "confidence": 0.0-1.0,
+  "reasoning": "<brief justification>"
+}
